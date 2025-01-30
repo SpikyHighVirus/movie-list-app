@@ -29,12 +29,12 @@ The main purpose of this project was to improve my skills in:
 ## 🛠️ How to Use  
 
 ### **Live Demo**  
-You can check out the live version of the app here: [My Movie List](https://your-netlify-link-here.netlify.app)  
+You can check out the live version of the app here: [My Movie List](https://roaring-chimera-8c60a9.netlify.app/)  
 
 ### **Running Locally**  
 If you'd like to run this project locally:  
 
 1. **Clone the Repository**:  
    ```bash  
-   git clone https://github.com/yourusername/movie-list.git  
-   cd movie-list  
+   git clone https://github.com/SpikyHighVirus/movie-list-app.git  
+   cd movie-list-app  
